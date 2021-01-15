@@ -1,6 +1,8 @@
 # C# Iplogger
 Simple application to view IP logs from console!
 
+### Preview:
+![preview](preview.gif)
 
 ### Notice:
 I do not claim making index.php!
