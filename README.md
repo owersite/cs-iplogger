@@ -1,2 +1,2 @@
-# cs-iplogger
-Simple application to view logs from console!
+# C# Iplogger
+Simple application to view IP logs from console!
