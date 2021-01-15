@@ -9,7 +9,7 @@ namespace IPLogger
         static void Main(string[] args)
         {
             Console.Title= "IPLogger";
-            Console.SetWindowSize(230, 25);
+            Console.SetWindowSize(200, 25);
             mucicka();
 
 
