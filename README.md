@@ -9,5 +9,5 @@ I do not claim making index.php!
 
 Put index into your site's File Manager otherwise it wont work!
 
-### Disclaimer:
+# Disclaimer:
 For educational purposes only, (me)Owersite, is not resposible for whatever you do with this.
