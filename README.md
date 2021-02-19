@@ -18,4 +18,4 @@ I do not claim making index.php!
 Put index into your site's File Manager otherwise it wont work!
 
 ## Disclaimer:
-#### Owersite(creator of this github repository) is not is not resposible for whatever you do with this, it is made for educational purposes only!
+#### Owersite(creator) is not is not resposible for whatever you do with this, it is made for educational purposes only!
