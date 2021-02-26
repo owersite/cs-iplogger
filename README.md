@@ -5,6 +5,7 @@ Simple application to view IP logs from console!
 This tool basicly checks your site's IP Logs if you have ipgrabber so you can see your logs from a console!
 
 ## T.O.S
+![APM](https://img.shields.io/apm/l/vim-mode?style=for-the-badge)
 ###### This repository/project is under MIT licence, if you are using it please leave watermark to the owner. (github.com/owersite)
 
 
